@@ -30,17 +30,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tiwaripriyanshu236&theme=dark&hide_border=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=tiwaripriyanshu236&theme=dark&hide_border=true)  
-
----
-
-## 🔝 Top Languages:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tiwaripriyanshu236&theme=dark&hide_border=true&layout=compact)
-
----
-
 ## 🚀 Featured Projects:
 - 🔹 Full Stack E-commerce Website  
 - 🔹 Authentication System 
